@@ -1,0 +1,31 @@
+.black-border {
+  border-top: 4px solid black;
+}
+.card-border {
+  margin: 20px;
+}
+.title-text {
+  color: #d8d8d8;
+  font-family: Verdana;
+  font-size: 20px;
+  margin-left: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+#kc-header-wrapper {
+  padding: 32px 10px 20px;
+}
+.login-img {
+  align-items: center;
+  justify-content: center;
+}
+.username-box {
+  font-family: Verdana;
+  font-size: 16px;
+  color: #242225;
+  border: none;
+  /* background-color: rgba(255, 255, 255, 0); */
+  /* -webkit-appearance: none; */
+  box-shadow: 0px 5px 10px 2px rgba(0, 0, 0, 0.2);
+  /* box-shadow: "0 4px 8px rgba(0, 0, 0, 0.2)"; */
+}
